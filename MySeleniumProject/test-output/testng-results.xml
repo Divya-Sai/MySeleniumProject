@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-07T10:41:28 BST" name="Default suite" finished-at="2020-10-07T10:41:28 BST" duration-ms="99">
+    <groups>
+    </groups>
+    <test started-at="2020-10-07T10:41:28 BST" name="Default test" finished-at="2020-10-07T10:41:28 BST" duration-ms="99">
+      <class name="learningTestNG.LearningDataParameters">
+        <test-method signature="LoginUser(java.lang.String, java.lang.String)[pri:0, instance:learningTestNG.LearningDataParameters@5ab9e72c]" started-at="2020-10-07T10:41:28 BST" name="LoginUser" data-provider="logindata" finished-at="2020-10-07T10:41:28 BST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Roshi@ycvhdsk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roshita]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser -->
+        <test-method signature="LoginUser(java.lang.String, java.lang.String)[pri:0, instance:learningTestNG.LearningDataParameters@5ab9e72c]" started-at="2020-10-07T10:41:28 BST" name="LoginUser" data-provider="logindata" finished-at="2020-10-07T10:41:28 BST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Roshi@sdpiv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roshita]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser -->
+        <test-method signature="LoginUser(java.lang.String, java.lang.String)[pri:0, instance:learningTestNG.LearningDataParameters@5ab9e72c]" started-at="2020-10-07T10:41:28 BST" name="LoginUser" data-provider="logindata" finished-at="2020-10-07T10:41:28 BST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Roshi@dcj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roshita]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser -->
+        <test-method signature="registerUsers(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:learningTestNG.LearningDataParameters@5ab9e72c]" started-at="2020-10-07T10:41:28 BST" name="registerUsers" data-provider="data" finished-at="2020-10-07T10:41:28 BST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Roshi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roshita]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sai123@gmail]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dfghhjk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUsers -->
+        <test-method signature="registerUsers(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:learningTestNG.LearningDataParameters@5ab9e72c]" started-at="2020-10-07T10:41:28 BST" name="registerUsers" data-provider="data" finished-at="2020-10-07T10:41:28 BST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Roshi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roshita]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sai123@gmail]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dfghhjk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUsers -->
+        <test-method signature="registerUsers(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:learningTestNG.LearningDataParameters@5ab9e72c]" started-at="2020-10-07T10:41:28 BST" name="registerUsers" data-provider="data" finished-at="2020-10-07T10:41:28 BST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Roshi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roshita]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sai123@gmail]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dfghhjk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUsers -->
+      </class> <!-- learningTestNG.LearningDataParameters -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
