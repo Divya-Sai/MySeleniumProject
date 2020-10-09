@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="learningTestNG.LearningTestNGPriority">
+      <class name="demoPackage.TestingLog4j">
         <methods>
-          <include name="Logout"/>
-          <include name="Navigate"/>
-          <include name="Login"/>
+          <include name="testLogs"/>
         </methods>
-      </class> <!-- learningTestNG.LearningTestNGPriority -->
+      </class> <!-- demoPackage.TestingLog4j -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
